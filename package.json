@@ -1,0 +1,27 @@
+{
+  "name": "hubot-slack-authenticator",
+  "version": "0.0.1",
+  "description": "Helper to validate incoming call to Hubot express router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoanm/node-hubot-slack-authenticator.git"
+  },
+  "keywords": [
+    "hubot",
+    "slack",
+    "signature"
+  ],
+  "author": "Yoanm <yoanm@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoanm/node-hubot-slack-authenticator/issues"
+  },
+  "homepage": "https://github.com/yoanm/node-hubot-slack-authenticator#readme",
+  "dependencies": {
+    "slack-authenticator": "0.0.1"
+  }
+}
