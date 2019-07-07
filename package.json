@@ -1,6 +1,6 @@
 {
   "name": "hubot-slack-authenticator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper to validate incoming call to Hubot express router",
   "main": "index.js",
   "scripts": {
